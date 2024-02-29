@@ -1,123 +1,117 @@
 # **CURRICULUM VITAE**
-## **Samuel M. Owens**
-### **PhD Biology Student**
-[Website](https://sites.temple.edu/smowens/) | [Email](mailto:sam.owens@temple.edu)
-- _Integrative Ecology Lab_ 
-- Department of Biology | Center for Biodiversity
-- Temple University
+## **Madison Mychayliw**
+### **Senior Undergraduate Student**
+[Email](mailto:madison.mychayliw@temple.com)
+- College of Science and Technology 
+- Temple University, Philadelphia PA, anticipated graduation May 2024
 
 
 ## Education
-**Temple University | PhD Biology**
+**Temple University | Biology Major, Criminal Justice Minor**
 
-*Spring 2022 - Current*
-- Graduate Advisor: Matthew Helmus, PhD
-- Thesis: "Modeling climate change effects on the establishment of the invasive *L. delicatula*"
-
-
-**Liberty University | BS Zoology, minor in Chemistry**
-
-*Fall 2015 - Spring 2019*
-- Undergraduate Advisor: Norman Reichenbach, PhD
-- graduate of the LU Eagle Scholars Leadership Program
-- Academic memberships: NSCS National Honor Society, Biology Club, Scientific Research Society
+*Fall 2020 - Current*
+- Temple University Biology Society 
+- Study Abroad, Temple University Rome 
 
 
-## Research Projects
-**Modeling climate change effects on the establishment of the invasive *L. delicatula***
+**Dunmore Jr./Sr. High School | High School Diploma**
 
-*Spring 2022 - Current*
-
-My project takes data science approach to tackle a biological issue. Invasive species are increasingly prevalent, and a massive amount of data has been compiled about invasion trends, so techniques need to be developed to utilize these biological datasets. I use the machine-learning software “MaxEnt” to make predictions about the risk of spread for L. delicatula, both currently and under climate change. I am developing this invasion prediction framework into an R package and website that will be freely distributed. 
-
-
-**Toxicological effects of atrazine and glyphosate on a crayfish ectosymbiont (*C. ingens*)**
-
-*Summer - Fall 2018*
+*Fall 2016 - Spring 2020*
+- Marching, Concert, and Jazz bands, 2016 - 2020, Drum Major 2019 - 2020
+- National Honors Society, 2018 - 2020
+- Spanish Club, 2016 - 2020, Treasurer 2019 - 2020
 
 
-**Toxicological effects of atrazine on the Appalachian Brook Crayfish (*C. b. bartonii*)**		
+## Laboratory Skills
 
-*Fall 2015- Spring 2018*
-
-## Grants
-**Liberty University Provost Research Initiative (PRI) Grant** 
-
-*$9,800 |	2017- 2018* 
-
-This grant is in support of research project to explore crayfish ecotoxicology. Project experimental design includes collaboration efforts with Dr. Mark Blais (histology) and Dr. Todd Allen (analytical chemistry)
-
-**Virginia Academy of Science poster presentation award** 
-
-*$750 |	2017*
-
-Research Grant award to support research on the effects of low-level Atrazine exposure on crayfish development.
+- Calorimetry
+- Molecular Weights 
+- Acid-Base and ReDox Titrations 
+- Electrochemsitry and Spectrophotometer 
+- Solvent-liquid extraction
+- Micropipette, Melting Point Apparatus, and Syringe use 
+- Fractional Distillation and Gas Chromatography 
+- DNA extraction and purification
+- SDS-PAGE, Gel Electrophoresis, and both Amino Acid and Thin Layer Chromatography
+- Computer Molecular Modeling
+- Invertebrate and Mammal Dissection
 
 
-## Teaching Experience
-**Instructor of Record for Introduction to Organismal Biology**
+## Program Efficiencies
 
-*Temple University Dept of Biology | Fall 2023*
-- Instructor for two weekly sections of the lab
--	Teaches techniques including FigTree and MEGA genetic analysis softwares, dissections
+- Adobe Express
+- Google Docs, Forms, Sheets, and Slides 
+- Mail Chimp emailing service 
+- Microsoft Excel, Powerpoint, Remote Desktop, and Word 
+  
+## Leadership and Activities 
+**Temple University Biology Society** 
 
-**Spatial Data Analysis in R- Global Change Science**		
+*Member 2020 - Present | Public Realtions Coordinator 2022 - Present * 
+- Participated in a scientific journal workshop, which included giving a presentation on a specific topic found in a scientific journal
+- Created digital Valentine's Day and Christmas cards using online resources and sent them to hospitalized children
+- Set up a food collection box in my apartment complex to collect donations benefitting a local non-profit food bank
+- Put together care packages with personal hygiene items and clothing, which were distributed to the less fortuante around the local Philadelphia community
+- Volunteered at weekly events including Temple Community Garden and Block Clean-Ups
+- Particpated in and hosted a research based Meet the Professors night, where professors came to present their research and members were able to ask questions about their work and lab
+- Collaborated with Temple UNICEF and Temple's Hispanic Pharmacy Association to give a presentation on health disparities in minority communities and created gift bags to be donated to the Children's Hospital of Philadelphia
+- Took part in animal volunteering at Doggy Style in Philadelphia, where I supervised members of the club as they took care of the animals
+-Participated in a Sustainable Laundry event in collaboration with TU Seeds and the Temple Office of Sustainability in a workshop where we made our own laundry detergent and gave a presentation on sustainable laundry practices
 
-*Temple University Dept of Biology | Spring 2023*
--	Created and taught a guest lecture
--	Taught basics of GIS analysis in R coding language using packages such as terra and stars'
-
-
-## Oral Presentations																				
-
-“Low Level Atrazine Exposure Effects on Crayfish Development.” Presented at Big South Undergraduate Research Symposium, Spring 8th Annual Meeting, April 14, 2018.
-
-
-## Internships																								
-**Marine Ecotoxicology Summer Research Intern** 
-
-*Dauphin Island Sea Laboratory | Summer 2019*
--	Performed extractions of organic toxins from shellfish and fish tissues
--	Performed biochemical assays such as ELISA, protein assays for analyzing toxin content in tissue samples 
--	Analyzed results of assay using GraphPad Prism Statistical Analysis Software
--	Collected and prepared field samples blue-green algae 
--	Worked on HAB (harmful algal bloom) emergency response team for 2019 blue-green algal bloom off MS/AL coast
-
-**Intertidal Ecology Summer Intern** 
-
-*Shoals Marine Laboratory | Summer 2018*
--	Expanded a long-term survey of the Appledore intertidal zone
--	Collaborated with other interns to perform survey according to National Park surveying method, various other methods
--	Analyzed large dataset for trends in abundance, performed statistical analysis for project
--	Produced professional poster for RARGOM conference (won best poster in Ecology)
+- As Public Relations Coordinator, my interpersonal skills have been put to use to communicate with members of the club through email, social media, and in person at events
+- Through my extensive use of Adobe Express and email communication skills, was able to create visually appealing Instagram posts and grow the club's Instgram account by 200%+ over the course of a year
+- Created and updated the club's website frequently with meeting information and other announcements
+- Application of my attention to detail and data collection skills allowed me to create spreadsheets to track member points and attendees at events
 
 
-## Work Experience																			
 
-**Laboratory Manager** 
+## Experience 
+**Study Abroad**
 
-*Temple University Dept of Biology | July – November 2022*
--	Lead a research project funded by California Department of Food and Agriculture
--	Mentored eight undergraduate students in California DFA project
--	Produced machine learning models and figures for a grant report filed to California DFA
--	Oversaw administrative lab functions including conducting interviews
+*Temple University Rome| Summer 2022*
+- Studied in Rome, Italy for six weeks
+- Explored the city through class trips with my Organized Crime and The History of Art in Rome classes
+- Studied and lived amongt the Roman community, which allowed me to become acustomed to their way of life
+- Travelled to Venice, Florence, and Milan to further my knowledge of Italian culture
+- Took pizza making and wine tasting classes to learn about the importance of food and alcohol in Italian culture 
 
-**Laboratory Assistant** 
 
-*Temple University Dept of Genetics / Biochemistry | Feb 2020 – July 2022*
--	Independently planned and executed experiments involving SNP genotyping and Sanger sequencing 
--	Managed workflow and project assignments for temporary full-time workers
--	Worked in a high-throughput COVID-19 CLIA testing lab using an automated rt-PCR test
--	Performed tests by-hand. Helped to upscale and automate high throughput testing as part of an effort to execute Temple University COVID testing requirements for students
--	CLIA validation of clinical TTR test- Genotyped blood samples to screen for SNP causing inherited genetic disorders
--	Received, processed, and stored bariatric/neurology samples for a CLIA Biobank
--	Oversaw zebrafish husbandry for lab, performed maintenance on Aquaneering aquatic housing system
 
-**Instructor of Radio Telemetry** 
 
-*Liberty University Dept of Biology and Chemistry | Fall 2017 - Spring 2019*
--	Worked as TA of Ecology and main instructor for students in telemetry and mark-recapture techniques
--	Led mark-recapture study on urban population of eastern box turtle (T. c. carolina)
--	Used radio telemetry used to track turtles and determine home-range extent
--	Trained successor to take over position
+## Volunteer Work																			
+
+*Griffin Pond Animal Shelter, South Abington Township PA | Summer 2021*
+-	Collected donations form donors and put the beds/toys/blankets/etc. away in their correct location
+-	Used the trails surrounding the shelter to take dogs out for their daily walks
+-	Provided cats with clean cages by scrubbing, washing, and making up freshly lined cat cages
+-	Accumulated over 30 volunteer hours during my time there 
+
+*Temple Community Garden, Philadelphia PA | Fall 2021 - Present*
+-	Participated weekly to help clean up the garden by picking up trash and recyclable items in the surrounding area 
+-	Worked with other volunteers to sift compost and fill flower and vegetable pots with the compost as a source of soil 
+-	Weeded the garden to allow for fresh seeds for fruits and vegetbales to be planted
+-	Contributed to the local Philadelphia and Temple communities by handing out the vegetables, fruits, and flowers that were grown in the garden 
+
+*Block Clean-Up, Philadelphia PA | Fall 2021 - Present*
+-	Participated weekly to collaborate with other members of the Temple Biology Society to clean up trash and other items around Temple's campus and the streets surrounding it 
+-	Filled numerous amounts of trash bags and properly disposed of them after cleaning up the blocks assigned to our group
+
+*Cradles to Crayons, Philadelphia PA | Fall 2023*
+-	Collected donations form donors and put the beds/toys/blankets/etc. away in their correct location
+-	Used the trails surrounding the shelter to take dogs out for their daily walks
+-	Provided cats with clean cages by scrubbing, washing, and making up freshly lined cat cages
+-	Accumulated over 30 volunteer hours during my time there 
+
+## Awards																								
+**College of Science and Technology Dean's List** 
+
+*Dean's List Recipient | Fall 2020*
+-	Awarded to students with a semester GPA of 3.75 or higher 
+
+
+
+
+
+
+
 
